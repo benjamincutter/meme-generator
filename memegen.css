@@ -1,0 +1,48 @@
+.labels {
+    font-size: 30px;
+    font-family:'Roboto Mono', monospace;
+    text-decoration: underline;
+    margin: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family:'Roboto Mono', monospace;
+    margin-bottom: 0%;    
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+button {
+    font-size: 20px;
+    font-family:'Roboto Mono', monospace;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+
+input {
+    border-radius: 5px;
+    font-size: 20px;
+}
+button:hover {
+    background-color: blue;
+    color: aliceblue;
+    
+}
+
+h2 {
+    font-size: 50px;
+    font-family:'Roboto Mono', monospace;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 0%;
+ 
+}
